@@ -1,0 +1,5 @@
+git branch -vv
+
+  bug-fix-revert 4aad131 [origin/bug-fix-revert] Add change for pull request
+  bug-fix-typo   f66c39e Fix typo
+* main           3dbc57e [origin/main] Add pull request verification
