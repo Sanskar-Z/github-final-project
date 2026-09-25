@@ -3,7 +3,7 @@ Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
 
 $ git merge bug-fix-typo
-Updating b57baab..f66c39e
+Updating 1db601c..2d00351
 Fast-forward
- README.md | 4 ++++
- 1 file changed, 4 insertions(+)
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
