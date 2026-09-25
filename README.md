@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project contains a Bash script that calculates simple interest.
+This project contains a Bash script to calculate simple interest.
 
 The calculator takes the following inputs:
 
