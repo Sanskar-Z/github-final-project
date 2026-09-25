@@ -13,3 +13,7 @@ The calculator takes the following inputs:
 The simple interest is calculated using the formula:
 
 Simple Interest = (Principal × Rate × Time) / 100
+
+## Bug Fix
+
+Fixed a typo in the project documentation.
