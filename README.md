@@ -17,3 +17,7 @@ Simple Interest = (Principal × Rate × Time) / 100
 ## Bug Fix
 
 Fixed a typo in the project documentation.
+
+## Revert Fix
+
+Added a change for pull request verification.
